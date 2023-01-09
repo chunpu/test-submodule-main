@@ -1,0 +1,3 @@
+[submodule "test-submodule-child"]
+	path = test-submodule-child
+	url = git@github.com:chunpu/test-submodule-child.git
